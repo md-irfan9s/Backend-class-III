@@ -14,5 +14,5 @@ End the request-response cycle. <br>
 Call the next middleware in the stack. <br>
 
 # I have learned how to create a middleware and load into a application <br>
-Throught basic understanding with Loggin - Authentication - Validation 
+Throught basic understanding with Loggin - Authentication - Validation
 
